@@ -1,0 +1,65 @@
+id,user_id,date,type,category,amount,description,month,year
+1,1,2026-06-02,Income,Other Income,10000.0,,6,2026
+2,1,2026-06-02,Expense,Food & Groceries,260.0,,6,2026
+3,1,2026-06-02,Expense,Transport/Car,50.0,,6,2026
+4,1,2026-06-02,Income,Bonus,200.0,,6,2026
+5,1,2026-06-06,Expense,Food & Groceries,120.0,,6,2026
+6,2,2026-06-10,Income,Salary,10000000.0,,6,2026
+7,2,2026-06-10,Expense,Shopping,100000.0,,6,2026
+8,2,2026-05-20,Income,Other Income,5000.0,,5,2026
+9,2,2026-05-21,Expense,Food & Groceries,2000.0,,5,2026
+10,3,2026-06-10,Income,Salary,100000.0,,6,2026
+11,3,2026-06-10,Income,Salary,0.01,,6,2026
+12,3,2026-06-10,Expense,Other Expense,10000.0,food,6,2026
+13,1,2026-01-01,Income,Salary,45000.0,Monthly Salary,1,2026
+14,1,2026-01-03,Expense,Food & Groceries,2500.0,Grocery Shopping,1,2026
+15,1,2026-01-05,Expense,Transport/Car,1200.0,Fuel,1,2026
+16,1,2026-01-08,Expense,Rent,12000.0,House Rent,1,2026
+17,1,2026-01-10,Income,Freelancing,5000.0,Website Project,1,2026
+18,1,2026-01-15,Expense,Entertainment,1500.0,Movie,1,2026
+19,1,2026-01-18,Expense,Utilities,2000.0,Electricity Bill,1,2026
+20,1,2026-01-22,Expense,Shopping,3000.0,Clothes,1,2026
+21,1,2026-01-25,Income,Bonus,2000.0,Performance Bonus,1,2026
+22,1,2026-01-28,Expense,Food & Groceries,1800.0,Supermarket,1,2026
+23,1,2026-02-01,Income,Salary,45000.0,Monthly Salary,2,2026
+24,1,2026-02-04,Expense,Food & Groceries,2200.0,Groceries,2,2026
+25,1,2026-02-06,Expense,Transport/Car,1100.0,Fuel,2,2026
+26,1,2026-02-08,Expense,Rent,12000.0,House Rent,2,2026
+27,1,2026-02-12,Income,Freelancing,6000.0,App Development,2,2026
+28,1,2026-02-15,Expense,Entertainment,1000.0,Movie,2,2026
+29,1,2026-02-18,Expense,Utilities,2100.0,Internet Bill,2,2026
+30,1,2026-02-20,Expense,Shopping,2500.0,Shoes,2,2026
+31,1,2026-02-24,Income,Bonus,1500.0,Bonus,2,2026
+32,1,2026-02-27,Expense,Food & Groceries,1700.0,Vegetables,2,2026
+33,1,2026-03-01,Income,Salary,45000.0,Monthly Salary,3,2026
+34,1,2026-03-03,Expense,Food & Groceries,2400.0,Grocery Shopping,3,2026
+35,1,2026-03-05,Expense,Transport/Car,1300.0,Fuel,3,2026
+36,1,2026-03-08,Expense,Rent,12000.0,House Rent,3,2026
+37,1,2026-03-11,Income,Freelancing,7000.0,Client Project,3,2026
+38,1,2026-03-14,Expense,Entertainment,1200.0,Concert,3,2026
+39,1,2026-03-18,Expense,Utilities,1900.0,Electricity Bill,3,2026
+40,1,2026-03-21,Expense,Shopping,3500.0,Mobile Accessories,3,2026
+41,1,2026-03-25,Income,Bonus,2500.0,Quarterly Bonus,3,2026
+42,1,2026-03-28,Expense,Food & Groceries,1800.0,Supermarket,3,2026
+43,1,2026-04-01,Income,Salary,45000.0,Monthly Salary,4,2026
+44,1,2026-04-04,Expense,Food & Groceries,2300.0,Groceries,4,2026
+45,1,2026-04-06,Expense,Transport/Car,1200.0,Fuel,4,2026
+46,1,2026-04-08,Expense,Rent,12000.0,House Rent,4,2026
+47,1,2026-04-10,Income,Freelancing,5500.0,Website Maintenance,4,2026
+48,1,2026-04-14,Expense,Entertainment,1800.0,Weekend Trip,4,2026
+49,1,2026-04-17,Expense,Utilities,2200.0,Internet + Electricity,4,2026
+50,1,2026-04-20,Expense,Shopping,2800.0,Clothing,4,2026
+51,1,2026-04-24,Income,Bonus,1800.0,Festival Bonus,4,2026
+52,1,2026-04-28,Expense,Food & Groceries,1600.0,Supermarket,4,2026
+53,1,2026-05-01,Income,Salary,45000.0,Monthly Salary,5,2026
+54,1,2026-05-03,Expense,Food & Groceries,2600.0,Grocery Shopping,5,2026
+55,1,2026-05-05,Expense,Transport/Car,1400.0,Fuel,5,2026
+56,1,2026-05-08,Expense,Rent,12000.0,House Rent,5,2026
+57,1,2026-05-11,Income,Freelancing,6500.0,Software Project,5,2026
+58,1,2026-05-14,Expense,Entertainment,1500.0,Movie & Dinner,5,2026
+59,1,2026-05-17,Expense,Utilities,2100.0,Electricity Bill,5,2026
+60,1,2026-05-20,Expense,Shopping,3200.0,New Bag,5,2026
+61,1,2026-05-24,Income,Bonus,2000.0,Performance Bonus,5,2026
+62,1,2026-05-28,Expense,Food & Groceries,1900.0,Supermarket,5,2026
+63,1,2026-06-08,Expense,Home/Rent,12000.0,,6,2026
+64,1,2026-06-12,Expense,Food & Groceries,1200.0,,6,2026

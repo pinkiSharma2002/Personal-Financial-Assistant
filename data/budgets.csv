@@ -1,0 +1,27 @@
+user_id,category,month,year,budget_amount
+1,Home/Rent,6,2026,2500.0
+1,Food & Groceries,6,2026,3000.0
+1,Transport/Car,6,2026,0.0
+1,Utilities,6,2026,0.0
+1,Healthcare,6,2026,0.0
+1,Education,6,2026,0.0
+1,Entertainment,6,2026,0.0
+1,Shopping,6,2026,0.0
+1,Insurance,6,2026,0.0
+1,EMI/Loan,6,2026,0.0
+1,Savings/Investment,6,2026,0.0
+1,Travel,6,2026,0.0
+1,Other Expense,6,2026,0.0
+2,Home/Rent,6,2026,0.0
+2,Food & Groceries,6,2026,0.0
+2,Transport/Car,6,2026,0.0
+2,Utilities,6,2026,0.0
+2,Healthcare,6,2026,0.0
+2,Education,6,2026,0.0
+2,Entertainment,6,2026,0.0
+2,Shopping,6,2026,500000.0
+2,Insurance,6,2026,0.0
+2,EMI/Loan,6,2026,0.0
+2,Savings/Investment,6,2026,0.0
+2,Travel,6,2026,0.0
+2,Other Expense,6,2026,0.0
