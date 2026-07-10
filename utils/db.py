@@ -10,7 +10,7 @@ import streamlit as st
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "Taehyung@3012",  
+    "password": "",  
     "database": "finance_manager",
 }
 # ──────────────────────────────────────────────────────────────────────────────
