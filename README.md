@@ -23,6 +23,9 @@ A Python-based Personal Financial Assistant that helps users manage income, expe
 pip install -r requirements.txt
 streamlit run app.py
 
+## Database 
+"Database and tables are automatically created when the application starts using init_db() in db.py."
+
 ## Screenshots
 ## Login Page
 ![Login](assets/login.png)
