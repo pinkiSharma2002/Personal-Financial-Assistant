@@ -28,4 +28,13 @@ streamlit run app.py
 ![Login](assets/login.png)
 
 ## Dashboard
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/Dashboard.png)
+
+## Add Transaction
+![Transaction](assets/add_transaction.png)
+
+## AI Prediction
+![Prediction](assets/AI_prediction.png)
+
+## Report
+![Report](assets/report.png)
