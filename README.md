@@ -41,3 +41,10 @@ streamlit run app.py
 
 ## Report
 ![Report](assets/report.png)
+
+## Future Enhancements
+- Email notifications
+- Multi-user support
+- Cloud deployment
+- Advanced ML forecasting
+- Mobile responsive UI
