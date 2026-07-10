@@ -24,3 +24,8 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Screenshots
+## Login Page
+![Login](assets/login.png)
+
+## Dashboard
+![Dashboard](assets/dashboard.png)
